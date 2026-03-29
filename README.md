@@ -41,10 +41,3 @@ I architect high-ROI financial systems within the Microsoft 365 ecosystem. As a 
 ### 📝 bianca.codes | [bianca.codes](https://bianca.codes)
 
 Technical logs focused on **M365 Development** and **BI Design Strategy**.
-
-  * **Recent Audits:** \* *PL-300 Implementation: Beyond the certification—building for the real world.*
-      * *JS/TS vs. VBA: The ROI of migrating to the Office JavaScript API.*
-      * *Why React is the standard for high-complexity Office Task Panes.*
------
-
-**Next Step:** Would you like me to generate a **README badges** section specifically for **React, TypeScript, and Office JS**?
