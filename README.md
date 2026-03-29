@@ -1,5 +1,10 @@
 # 🕵️‍♀️ @bianca-git | M365 Developer & Finance BI Lead
 
+![Microsoft Certified: Power BI Data Analyst Associate](https://img.shields.io/badge/Microsoft%20Certified-PL--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Office JS](https://img.shields.io/badge/Office%20JS-Add--in%20Dev-D83B01?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%26%20M-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 ### 📜 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 
 ### 🏛 The M365 Infrastructure Philosophy
